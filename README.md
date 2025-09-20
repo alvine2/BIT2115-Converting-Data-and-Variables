@@ -18,7 +18,7 @@
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/alvine2/BIT2115-Converting-Data-and-Variables.git
    cd BIT2115-Converting-Data-and-Variables/src
 
 ## 📝 Author
